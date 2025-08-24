@@ -215,6 +215,9 @@
 ![image](gfx/SkillIcon_RallyMovement.png) | RallyMovement |  Art: +4 MOV to all allies in a 2x2 radius of user. |
 ![image](gfx/SkillIcon_RallyResistance.png) | RallyResistance |  Art: +4 RES to all allies in a 2x2 radius of user. |
 ![image](gfx/SkillIcon_RallySkill.png) | RallySkill |  Art: +4 SKL to all allies in a 2x2 radius of user. |
+
+# Full list
+https://github.com/FireEmblemUniverse/fe8u-cskillsys/blob/main/docs/SkillInfo.md
 ![image](gfx/SkillIcon_RallySpeed.png) | RallySpeed |  Art: +4 SPD to all allies in a 2x2 radius of user. |
 ![image](gfx/SkillIcon_RallyStrength.png) | RallyStrength |  Art: +4 STR to all allies in a 2x2 radius of user. |
 ![image](gfx/SkillIcon_RallySpectrum.png) | RallySpectrum |  Art: +4 all stats for all allies in a 2x2 radius of user. |
