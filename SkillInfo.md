@@ -95,7 +95,6 @@
 ![image](gfx/SkillIcon_StanceSwift.png) | StanceSwift |  Grants +4 AS and RES if attacked. |
 ![image](gfx/SkillIcon_StanceWarding.png) | StanceWarding |  Grants +6 RES if attacked. |
 ![image](gfx/SkillIcon_StanceSpectrum.png) | StanceSpectrum |  Grants +2 ATK, SPD, DEF and RES if attacked. |
-![image](gfx/SkillIcon_RunningStart.png) | RunningStart |  +1 attack range for every two tiles moved. |
 ![image](gfx/SkillIcon_InnerFlame3.png) | InnerFlame |  ATK +5 if no ally with 1 tiles. |
 ![image](gfx/SkillIcon_AlertStance.png) | AlertStance |  If unit takes no action except Wait, grants Avoid +15%. |
 ![image](gfx/SkillIcon_SavageBlow.png) | SavageBlow |  After attacking, enemies within 2 tiles take 20% damage. |
