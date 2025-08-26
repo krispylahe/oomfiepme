@@ -67,11 +67,11 @@
 ![image](gfx/SkillIcon_StrongCon.png) | StrongCon |  +5 Def/Res if afflicted by any status condition. |
 ![image](gfx/SkillIcon_Counter.png) | Counter |  Reflect physical damage dealt at melee range. |
 ![image](gfx/SkillIcon_CounterMagic.png) | CounterMagic |  Reflect magical damage dealt at range. |
-![image](gfx/SkillIcon_SwordBreaker.png) | SwordBreaker |  Hit and Avoid +20% if unit battles a Sword with a Lance. |
-![image](gfx/SkillIcon_AxeBreaker.png) | AxeBreaker |  Hit and Avoid +20% if unit battles an Axe with a Sword. |
-![image](gfx/SkillIcon_LanceBreaker.png) | LanceBreaker |  Hit and Avoid +20% if unit battles a Lance with an Axe. |
-![image](gfx/SkillIcon_BowBreaker.png) | BowBreaker |   Hit and Avoid +20% if unit battles a Bow with B.mag. |
-![image](gfx/SkillIcon_BMagBreaker.png) | BMagBreaker |   Hit and Avoid +20%. |
+![image](gfx/SkillIcon_SwordBreaker.png) | SwordBreaker |  Hit and Avoid +20% if foe uses a Sword. |
+![image](gfx/SkillIcon_AxeBreaker.png) | AxeBreaker |  Hit and Avoid +20% if foe uses an Axe. |
+![image](gfx/SkillIcon_LanceBreaker.png) | LanceBreaker |  Hit and Avoid +20% if foe uses a Lance. |
+![image](gfx/SkillIcon_BowBreaker.png) | BowBreaker |   Hit and Avoid +20% if foe uses a Bow. |
+![image](gfx/SkillIcon_BMagBreaker.png) | TomeBreaker |   Hit and Avoid +20% if foe uses a Tome. |
 ![image](gfx/SkillIcon_Vantage.png) | Vantage |  When unit is defender while their HP is < 50%, attack first. |
 ![image](gfx/SkillIcon_Desperation.png) | Desperation |  When unit attacks while their HP < 50%, double attack immediately. |
 ![image](gfx/SkillIcon_QuickRiposte.png) | QuickRiposte |  If unit is attacked while their HP > 50%, they attack twice. |
