@@ -216,6 +216,13 @@
 ![image](gfx/SkillIcon_RallySkill.png) | RallySkill |  Art: +4 SKL to all allies in a 2x2 radius of user. |
 ![image](gfx/SkillIcon_RallySpeed.png) | RallySpeed |  Art: +4 SPD to all allies in a 2x2 radius of user. |
 ![image](gfx/SkillIcon_RallyStrength.png) | RallyStrength |  Art: +4 STR to all allies in a 2x2 radius of user. |
+![image](gfx/SkillIcon_InitStrong.png) | InitStrong |  +7 STR on the first turn. |
+![image](gfx/SkillIcon_InitClever.png) | InitClever |  +7 MAG on the first turn. |
+![image](gfx/SkillIcon_InitDeft.png) | InitDeft |  +7 SKL on the first turn. |
+![image](gfx/SkillIcon_InitQuick.png) | InitQuick |  +7 SPD on the first turn. |
+![image](gfx/SkillIcon_InitSturdy.png) | InitSturdy |  +7 DEF on the first turn. |
+![image](gfx/SkillIcon_InitCalm.png) | InitCalm |  +7 RES on the first turn. |
+![image](gfx/SkillIcon_InitLucky.png) | InitLucky |  +7 LUCK on the first turn. |
 
 ### Full list
 https://github.com/FireEmblemUniverse/fe8u-cskillsys/blob/main/docs/SkillInfo.md
