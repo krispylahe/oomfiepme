@@ -223,6 +223,13 @@
 ![image](gfx/SkillIcon_InitSturdy.png) | InitSturdy |  +7 DEF on the first turn. |
 ![image](gfx/SkillIcon_InitCalm.png) | InitCalm |  +7 RES on the first turn. |
 ![image](gfx/SkillIcon_InitLucky.png) | InitLucky |  +7 LUCK on the first turn. |
+![image](gfx/SkillIcon_BMagBreaker.png) | SealStr |  After combat, reduces enemy Str by 6 |
+![image](gfx/SkillIcon_BMagBreaker.png) | SealMag |  After combat, reduces enemy Mag by 6 |
+![image](gfx/SkillIcon_BMagBreaker.png) | SealSkl |  After combat, reduces enemy Skl by 6 |
+![image](gfx/SkillIcon_BMagBreaker.png) | SealSpd |  After combat, reduces enemy Spd by 6 |
+![image](gfx/SkillIcon_BMagBreaker.png) | SealLck |  After combat, reduces enemy Lck by 6 |
+![image](gfx/SkillIcon_BMagBreaker.png) | SealDef |  After combat, reduces enemy Def by 6 |
+![image](gfx/SkillIcon_BMagBreaker.png) | SealRes |  After combat, reduces enemy Res by 6 |
 
 ### Full list
 https://github.com/FireEmblemUniverse/fe8u-cskillsys/blob/main/docs/SkillInfo.md
